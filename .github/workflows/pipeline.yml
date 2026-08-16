@@ -31,7 +31,7 @@ jobs:
         run: date
 
       - name: Mostrar versión de Git
-        run: gt --version
+        run: git --version
 
       - name: Finalizar pipeline
         run: echo "Pipeline ejecutado correctamente."
