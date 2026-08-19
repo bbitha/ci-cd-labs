@@ -29,6 +29,7 @@ ci-cd-labs/
 |---|---|
 | Laboratorio 1 | Primer pipeline de Integración Continua |
 | Laboratorio 2 | Branching, Pull Requests y ejecución de CI |
+| Laboratorio 3 | Integración de pruebas automatizadas al pipeline |
 
 ## Plataforma utilizada
 
